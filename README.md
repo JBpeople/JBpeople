@@ -2,15 +2,15 @@
 
 # JBpeople
 
-<p>To B 产品 · 流程设计 · 需求管理</p>
+<p>产研一体 · 需求理解 · 工具落地</p>
 
-<p>关注企业产品中的需求分析、流程梳理、协作推进与文档沉淀。</p>
+<p>关注从问题定义、流程设计到工具实现的完整落地过程。</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=JBpeople&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=5c7cfa&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/GitHub-JBpeople-24292f?style=flat&logo=github" alt="GitHub badge" />
-  <img src="https://img.shields.io/badge/Product-Manager-1f6feb?style=flat" alt="Product Manager badge" />
-  <img src="https://img.shields.io/badge/ToB-Workflow%20%26%20Requirements-0f766e?style=flat" alt="ToB badge" />
+  <img src="https://img.shields.io/badge/Product%20%26%20Engineering-Hybrid-1f6feb?style=flat" alt="Hybrid badge" />
+  <img src="https://img.shields.io/badge/Focus-Workflow%20%26%20Execution-0f766e?style=flat" alt="Focus badge" />
 </p>
 
 </div>
@@ -19,17 +19,17 @@
 
 ## 关注方向
 
-- To B 产品规划与需求拆解
-- 业务流程梳理与角色权限设计
-- 需求管理、版本推进与协作跟进
-- 产品文档沉淀与信息同步机制
+- 需求理解、问题拆解与方案设计
+- 流程梳理、角色协作与信息同步
+- 工具、脚本与自动化流程落地
+- 从想法到 Demo 的快速验证与迭代
 
 ## 工作方式
 
 - 从业务目标出发，明确问题边界与优先级
-- 用流程图、需求文档和原型降低沟通成本
-- 关注需求闭环：提出、评审、上线、复盘
-- 重视可复用的方法、模板和文档体系
+- 用文档、原型、流程图统一认知和推进协作
+- 能把抽象需求进一步转成工具、脚本或轻量实现
+- 重视闭环：定义问题、推动落地、验证效果、持续优化
 
 ## 常用工具
 
@@ -39,16 +39,18 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Automation-Tools-7c3aed?style=flat" alt="Automation" />
 </p>
 
 ## 项目与产出
 
-这里会逐步整理与产品工作相关的内容，包括：
+这里会逐步整理与产研协同相关的内容，包括：
 
-- 需求分析与 PRD 示例
-- 业务流程梳理与方案设计
-- 产品协作过程中的模板、方法和沉淀
+- 需求分析、方案设计与流程梳理
+- 工具、脚本、自动化流程或轻量 Demo
+- 产品协作过程中的模板、方法和阶段性沉淀
 
 ## GitHub 概览
 
@@ -66,4 +68,4 @@
 
 ## 说明
 
-这个主页主要用于沉淀与展示产品相关的项目、文档和工作方法。
+这个主页主要用于沉淀与展示产研协同相关的项目、工具、文档和工作方法。
