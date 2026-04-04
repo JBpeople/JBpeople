@@ -114,25 +114,3 @@
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JBpeople&theme=github" alt="Profile Details" />
 </div>
-
----
-
-## 代表项目
-
-### 工业软件 / CAD
-- **[ai-cadquery](https://github.com/JBpeople/ai-cadquery)** — AI + CADQuery 建模测试，偏向参数化建模与可运行 Demo 验证
-- **[cad_develop](https://github.com/JBpeople/cad_develop)** — CAD 插件相关开发，偏工程场景功能扩展
-
-### AI / 自动化
-- **[CLIProxyAPI](https://github.com/JBpeople/CLIProxyAPI)** — OpenAI-compatible 调用链增强、模型同步与自动发现能力
-- **[ai_wechat](https://github.com/JBpeople/ai_wechat)** — AI 自动回复微信聊天工具，偏业务侧自动化实践
-
-### 工具 / 效率
-- **[conda_manager](https://github.com/JBpeople/conda_manager)** — Conda 可视化环境管理工具
-- **[stay_ledger](https://github.com/JBpeople/stay_ledger)** — 极简记账服务，体现快速从想法走到可用版本
-
-<div align="center">
-  <a href="https://github.com/JBpeople?tab=repositories">
-    <img src="https://img.shields.io/badge/%E6%9F%A5%E7%9C%8B%E5%85%A8%E9%83%A8%E4%BB%93%E5%BA%93-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
-  </a>
-</div>
