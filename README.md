@@ -119,35 +119,20 @@
 
 ## 代表项目
 
-<div align="center">
-  <a href="https://github.com/JBpeople/CLIProxyAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JBpeople&repo=CLIProxyAPI&hide_border=true" width="49%" />
-  </a>
-  <a href="https://github.com/JBpeople/ai-cadquery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JBpeople&repo=ai-cadquery&hide_border=true" width="49%" />
-  </a>
-  <a href="https://github.com/JBpeople/conda_manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JBpeople&repo=conda_manager&hide_border=true" width="49%" />
-  </a>
-  <a href="https://github.com/JBpeople/ai_wechat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JBpeople&repo=ai_wechat&hide_border=true" width="49%" />
-  </a>
-</div>
+### 工业软件 / CAD
+- **[ai-cadquery](https://github.com/JBpeople/ai-cadquery)** — AI + CADQuery 建模测试，偏向参数化建模与可运行 Demo 验证
+- **[cad_develop](https://github.com/JBpeople/cad_develop)** — CAD 插件相关开发，偏工程场景功能扩展
+
+### AI / 自动化
+- **[CLIProxyAPI](https://github.com/JBpeople/CLIProxyAPI)** — OpenAI-compatible 调用链增强、模型同步与自动发现能力
+- **[ai_wechat](https://github.com/JBpeople/ai_wechat)** — AI 自动回复微信聊天工具，偏业务侧自动化实践
+
+### 工具 / 效率
+- **[conda_manager](https://github.com/JBpeople/conda_manager)** — Conda 可视化环境管理工具
+- **[stay_ledger](https://github.com/JBpeople/stay_ledger)** — 极简记账服务，体现快速从想法走到可用版本
 
 <div align="center">
   <a href="https://github.com/JBpeople?tab=repositories">
     <img src="https://img.shields.io/badge/%E6%9F%A5%E7%9C%8B%E5%85%A8%E9%83%A8%E4%BB%93%E5%BA%93-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
   </a>
 </div>
-
----
-
-## 一句话说明这个主页
-
-这个主页主要用来整理：
-
-- 工业软件 / 工程数字化相关项目
-- AI、自动化、效率工具
-- 需求分析、方案设计与落地过程中的阶段性产出
-
-如果你是因为简历或项目点进来的，希望这里能让你更快看懂：**我做过什么、擅长什么、以及我如何把事情真正推进下去。**
