@@ -107,10 +107,18 @@
 ## GitHub 数据概览
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JBpeople&show_icons=true&hide_border=true&locale=cn&rank_icon=percentile" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBpeople&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
+
+<img src="https://komarev.com/ghpvc/?username=JBpeople&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=1f4e79&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/JBpeople?style=for-the-badge&color=5b8def&labelColor=1f2937" alt="followers" />
+<img src="https://count.getloli.com/@JBpeople-github-profile?theme=rule34" alt="counter" />
+
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JBpeople&theme=github" alt="Profile Details" />
+  <a href="https://github.com/JBpeople?tab=repositories">
+    <img src="https://img.shields.io/badge/%E4%BB%93%E5%BA%93%E6%95%B0%E9%87%8F-%E6%9F%A5%E7%9C%8B%E5%85%A8%E9%83%A8-181717?style=for-the-badge&logo=github&logoColor=white" alt="repositories" />
+  </a>
+  <a href="https://github.com/JBpeople?tab=stars">
+    <img src="https://img.shields.io/badge/Starred-Repositories-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="starred" />
+  </a>
 </div>
