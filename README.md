@@ -1,72 +1,131 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,100:5b8def&height=220&section=header&text=JBpeople&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Industrial%20Software%20Product%20Manager%20%7C%20Tech-driven%20Builder&descAlignY=58" width="100%" />
+
 # JBpeople
 
-<p>产研一体 · 需求理解 · 工具落地</p>
+**工业软件产品经理｜技术型产品经理**  
+聚焦工业软件、复杂业务规则抽象、产品方案设计与工具化落地
 
-<p>平时一边琢磨需求，一边把能落地的东西顺手做出来。</p>
+[![GitHub](https://img.shields.io/badge/GitHub-JBpeople-181717?style=for-the-badge&logo=github)](https://github.com/JBpeople)
+[![Email](https://img.shields.io/badge/Email-lcmmljs%40foxmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcmmljs@foxmail.com)
+[![Location](https://img.shields.io/badge/Location-Chengdu-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Focus](https://img.shields.io/badge/Focus-Industrial%20Software%20%26%20AI-1f4e79?style=for-the-badge)](#)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=JBpeople&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=5c7cfa&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/GitHub-JBpeople-24292f?style=flat&logo=github" alt="GitHub badge" />
-  <img src="https://img.shields.io/badge/Product%20%26%20Engineering-Hybrid-1f6feb?style=flat" alt="Hybrid badge" />
-  <img src="https://img.shields.io/badge/Focus-Workflow%20%26%20Execution-0f766e?style=flat" alt="Focus badge" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1F4E79&center=true&vCenter=true&width=760&lines=%E6%8A%8A%E5%A4%8D%E6%9D%82%E8%A7%84%E5%88%99%E5%8F%98%E6%88%90%E5%8F%AF%E8%90%BD%E5%9C%B0%E7%9A%84%E4%BA%A7%E5%93%81%E6%96%B9%E6%A1%88;%E4%BB%8E%E9%9C%80%E6%B1%82%E7%90%86%E8%A7%A3%E5%88%B0%E5%B7%A5%E5%85%B7%E8%90%BD%E5%9C%B0%E5%92%8C%E8%87%AA%E5%8A%A8%E5%8C%96;%E5%B7%A5%E4%B8%9A%E8%BD%AF%E4%BB%B6+%7C+PDMS+%7C+E3D+%7C+PML+%7C+RAG+%7C+Python+%7C+Rust)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 关注方向
+## 关于我
 
-- 把模糊想法慢慢拆成能推进的需求和方案
-- 把流程理顺，让协作别总靠“你应该懂我意思吧”
-- 用工具、脚本和自动化把重复事情处理得更省心
-- 从一个念头出发，尽量把它推到 Demo 或可用版本
+4 年工业软件与制造数字化相关经验，覆盖产品设计、需求分析、产研协同与部分技术落地。  
+深度参与国产三维管道设计软件核心功能建设，熟悉 **PDMS / E3D / PML / ISO 出图** 等场景。  
+我最擅长的事情，是把**复杂行业规则**翻译成**可执行的产品方案、研发逻辑与可落地系统**。
 
-## 工作方式
+### 我主要在做什么
 
-- 从业务目标出发，明确问题边界与优先级
-- 用文档、原型和流程图把“差不多懂了”变成“真的对齐了”
-- 遇到合适的场景，会把抽象需求继续做成工具、脚本或轻量实现
-- 比较在意闭环这件事：不只提出想法，也想看到它真正跑起来
+- 工业软件与复杂业务规则抽象
+- 产品设计、需求分析与产研协同
+- 工具化、自动化与轻量系统落地
+- AI / RAG 在工程与业务场景中的应用
 
-## 常用工具
+### 我比较关注的方向
 
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/Automation-Tools-7c3aed?style=flat" alt="Automation" />
-</p>
+- 国产工业软件
+- 三维设计 / CAD / 工程数字化
+- AI 辅助研发与知识沉淀
+- 自动化工作流与效率工具
 
-## 项目与产出
+---
 
-这里会逐步整理与产研协同相关的内容，包括：
+## 仓库概览
 
-- 需求分析、方案设计与流程梳理
-- 工具、脚本、自动化流程或轻量 Demo
-- 一些为了把事情推进下去而顺手做出来的东西
-- 产品协作过程中的模板、方法和阶段性沉淀
+### 1) 工业软件 / CAD / 工程数字化
+- **[ai-cadquery](https://github.com/JBpeople/ai-cadquery)**  
+  AI + CADQuery 建模测试，连接产品想法、参数化建模与可运行 Demo。
+- **[cad_develop](https://github.com/JBpeople/cad_develop)**  
+  CAD 插件相关开发，偏工程侧功能延展与实际落地。
 
-## GitHub 概览
+### 2) AI / 自动化工具
+- **[CLIProxyAPI](https://github.com/JBpeople/CLIProxyAPI)**  
+  面向 OpenAI-compatible 上游的增强代理能力，包含模型同步、自动发现与调用链增强。
+- **[ai_wechat](https://github.com/JBpeople/ai_wechat)**  
+  AI 自动回复微信聊天工具，偏向业务侧自动化实践。
+
+### 3) 开发效率 / 环境工具
+- **[conda_manager](https://github.com/JBpeople/conda_manager)**  
+  基于 Conda 的可视化 Python 环境管理工具。
+- **[stay_ledger](https://github.com/JBpeople/stay_ledger)**  
+  极简记账服务，体现从想法到可用服务的快速落地能力。
+
+---
+
+## 技能与能力地图
+
+### 领域
+`Industrial Software` `PDMS` `E3D` `PML` `ISO Drawing` `Engineering Digitalization`
+
+### 产品
+`Requirement Analysis` `PRD` `Workflow Design` `Rule Abstraction` `Cross-team Collaboration`
+
+### 技术
+`Python` `Rust` `C#` `SQL` `FastAPI` `PyQt5` `WxPython` `OpenGL`
+
+### AI / 自动化
+`RAG` `LLM` `Ollama` `DeepSeek` `Whisper` `YOLOv8` `Automation`
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,cs,sqlite,fastapi,git,github,vscode,linux&perline=9" />
+</div>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JBpeople&show_icons=true&locale=cn&hide_border=true&rank_icon=percentile" alt="GitHub stats" />
+---
 
+## GitHub 数据概览
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JBpeople&show_icons=true&hide_border=true&locale=cn&rank_icon=percentile" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBpeople&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JBpeople&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
-
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JBpeople&theme=github" alt="Profile Details" />
 </div>
 
-## 说明
+---
 
-这个主页主要用来放一放项目、工具、文档，还有一些“既然都想到这了，不如顺手做出来”的内容。
+## 代表项目
+
+<div align="center">
+  <a href="https://github.com/JBpeople/CLIProxyAPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JBpeople&repo=CLIProxyAPI&hide_border=true" width="49%" />
+  </a>
+  <a href="https://github.com/JBpeople/ai-cadquery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JBpeople&repo=ai-cadquery&hide_border=true" width="49%" />
+  </a>
+  <a href="https://github.com/JBpeople/conda_manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JBpeople&repo=conda_manager&hide_border=true" width="49%" />
+  </a>
+  <a href="https://github.com/JBpeople/ai_wechat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JBpeople&repo=ai_wechat&hide_border=true" width="49%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/JBpeople?tab=repositories">
+    <img src="https://img.shields.io/badge/%E6%9F%A5%E7%9C%8B%E5%85%A8%E9%83%A8%E4%BB%93%E5%BA%93-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
+  </a>
+</div>
+
+---
+
+## 一句话说明这个主页
+
+这个主页主要用来整理：
+
+- 工业软件 / 工程数字化相关项目
+- AI、自动化、效率工具
+- 需求分析、方案设计与落地过程中的阶段性产出
+
+如果你是因为简历或项目点进来的，希望这里能让你更快看懂：**我做过什么、擅长什么、以及我如何把事情真正推进下去。**
