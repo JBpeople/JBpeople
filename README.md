@@ -110,7 +110,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=JBpeople&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=1f4e79&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/JBpeople?style=for-the-badge&color=5b8def&labelColor=1f2937" alt="followers" />
-<img src="https://count.getloli.com/@JBpeople-github-profile?theme=rule34" alt="counter" />
 
 </div>
 
@@ -121,4 +120,8 @@
   <a href="https://github.com/JBpeople?tab=stars">
     <img src="https://img.shields.io/badge/Starred-Repositories-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="starred" />
   </a>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/JBpeople/JBpeople/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution chart" />
 </div>
