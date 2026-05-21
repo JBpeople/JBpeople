@@ -11,7 +11,6 @@
 
 </div>
 
----
 
 ## 当前关注
 
@@ -19,9 +18,7 @@
 - AI、自动化工作流与轻量工具落地
 - 从想法到 Demo / MVP 的快速验证
 
----
 
----
 
 ## 技术关键词
 
@@ -31,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=python,rust,cs,sqlite,fastapi,git,github,vscode,linux&perline=9" />
 </div>
 
----
 
 ## GitHub
 
