@@ -21,29 +21,6 @@
 
 ---
 
-## 仓库概览
-
-### 工业软件 / CAD / 工程数字化
-
-- **[ai-cadquery](https://github.com/JBpeople/ai-cadquery)**  
-  AI + CADQuery 建模测试，连接产品想法、参数化建模与可运行 Demo。
-- **[cad_develop](https://github.com/JBpeople/cad_develop)**  
-  CAD 插件相关开发，偏工程侧功能延展与实际落地。
-
-### AI / 自动化工具
-
-- **[CLIProxyAPI](https://github.com/JBpeople/CLIProxyAPI)**  
-  面向 OpenAI-compatible 上游的增强代理能力，包含模型同步、自动发现与调用链增强。
-- **[ai_wechat](https://github.com/JBpeople/ai_wechat)**  
-  AI 自动回复微信聊天工具，偏向业务侧自动化实践。
-
-### 开发效率 / 环境工具
-
-- **[conda_manager](https://github.com/JBpeople/conda_manager)**  
-  基于 Conda 的可视化 Python 环境管理工具。
-- **[stay_ledger](https://github.com/JBpeople/stay_ledger)**  
-  极简记账服务，体现从想法到可用服务的快速落地能力。
-
 ---
 
 ## 技术关键词
