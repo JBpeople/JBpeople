@@ -7,17 +7,8 @@
 **工业软件 / AI 工具 / 产品构建**
 
 [![GitHub](https://img.shields.io/badge/GitHub-JBpeople-181717?style=for-the-badge&logo=github)](https://github.com/JBpeople)
-[![Focus](https://img.shields.io/badge/Focus-Industrial%20Software%20%26%20AI-1f4e79?style=for-the-badge)](#)
 
 </div>
-
-
-## 当前关注
-
-- 工业软件、CAD / 工程数字化相关场景
-- AI、自动化工作流与轻量工具落地
-- 从想法到 Demo / MVP 的快速验证
-
 
 
 ## 技术关键词
