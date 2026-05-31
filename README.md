@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,100:5b8def&height=200&section=header&text=JBpeople&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Industrial%20Software%20%7C%20AI%20Tools%20%7C%20Product%20Building&descAlignY=60" width="100%" />
 
-# JBpeople
-
-**工业软件 / AI 工具 / 产品构建**
-
-[![GitHub](https://img.shields.io/badge/GitHub-JBpeople-181717?style=for-the-badge&logo=github)](https://github.com/JBpeople)
-
 </div>
 
 
