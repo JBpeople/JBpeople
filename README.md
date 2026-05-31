@@ -19,7 +19,9 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=JBpeople&label=Views&color=1f4e79&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/JBpeople?style=for-the-badge&color=5b8def&labelColor=1f2937" alt="followers" />
+<a href="https://github.com/JBpeople?tab=followers">
+  <img src="https://img.shields.io/badge/Followers-3-5b8def?style=for-the-badge&logo=github&labelColor=1f2937" alt="followers" />
+</a>
 <a href="https://github.com/JBpeople?tab=repositories">
   <img src="https://img.shields.io/badge/Repos-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="repositories" />
 </a>
